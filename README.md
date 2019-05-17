@@ -1,6 +1,6 @@
 # Refactoring task
 
-##Description
+## Description
 There is a `ZendeskService` class which is part of is part of a Zend Framework 2 project.
 
 Refactor the given `ZendeskService` class.

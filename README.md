@@ -22,7 +22,7 @@ Optimizing the functionality is not part of a refactoring task.
 
 **The given solution works with the first scenario where It is not possible to make changes on the places where the class is used.**
 
-###The following is a list of prioritized issues that are refactored:
+### The following is a list of prioritized issues that are refactored:
 - removing repetition - making a method that do the job and call it (example: make createTicket method; move the client authentication in the constructor as it's needed in each method)
 - improving readability (example: moving the ticket custom fields codes to a mapping array).
 - simplifying the logic where it's possible (KISS principle)(example: refactor multiple nested ifs )
